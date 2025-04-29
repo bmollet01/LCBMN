@@ -1,0 +1,14 @@
+tensorflow==2.6
+numpy==1.19.2
+pandas
+cobra
+scikit-learn
+keras==2.6
+matplotlib
+seaborn
+pydoe2
+ipykernel
+openml
+xgboost
+inspyred
+silence-tensorflow
