@@ -7,10 +7,15 @@ The proxy of bactria metabolism are AMN model described in the paper of [Léon F
 Part of the code from the original paper was taken from the repository: https://github.com/brsynth/amn_release licensed under the MIT licence. The corresponding code is: [`src/AMN.py`]()
 
 ### Evaluating capacity :
-
+* [Figures](https://github.com/bmollet01/LCBMN/blob/main/Figure%203%20Capacity.ipynb)
+* ['data']()
 ### Method comparison :
-
+* [Figures](https://github.com/bmollet01/LCBMN/blob/main/Figure%204%20Performance%20comparison.ipynb)
+* ['data']()
 ### Ablation :
-
+* [Figures](https://github.com/bmollet01/LCBMN/blob/main/Figure%206%20Ablation.ipynb)
+* ['data']()
 ### Substitution :
 
+* [Figures](https://github.com/bmollet01/LCBMN/blob/main/Figure%207%20Substitution.ipynb)
+* ['data']()
